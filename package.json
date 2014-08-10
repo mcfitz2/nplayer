@@ -1,0 +1,23 @@
+{
+  "name": "musicdb",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micah Fitzgerald",
+  "license": "GPLv2",
+  "dependencies": {
+    "async": "~0.9.0",
+    "byline": "~4.1.1",
+    "lodash": "~2.4.1",
+    "mv": "~2.0.0",
+    "pg": "~3.3.0",
+    "sanitize-filename": "~1.0.1",
+    "sequelize": "~1.7.9",
+    "sqlite3": "~2.2.3",
+    "groove": "~2.2.6",
+    "socket.io": "~1.0.6"
+  }
+}

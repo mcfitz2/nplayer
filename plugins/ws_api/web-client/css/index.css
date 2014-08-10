@@ -1,0 +1,41 @@
+#controls {
+    margin-left:auto;
+    margin-right:auto;
+}
+.top-buffer { 
+    margin-top:20px; 
+}
+
+#album-art {
+    width:150px;
+    height:150px;
+}
+body {
+    background:black;
+}
+#player {
+    padding-top:50px;
+    background:#999;
+    padding-bottom:20px;
+}
+#playlist { 
+    height:300px;
+}
+#playlist-container {
+    overflow-y:scroll;
+    height:400px;
+    background:#999;
+}
+.progress {
+    position: relative;
+}
+
+.progress span {
+    position: absolute;
+    display: block;
+    width: 100%;
+    color: black;
+ }
+#volume-slider-created {
+    height:130px;
+}
